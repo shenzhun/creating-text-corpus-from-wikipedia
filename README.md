@@ -6,4 +6,4 @@ This project aims to create a plain text corpus from wikipedia for NLP and Speec
 Download 
 --------
 
-Download the lastest enwiki dump (10.5 G) using <code>wp-download</code> from http://dumps.wikimedia.org/enwiki/
+Download the lastest enwiki dump (10.5 G) using [wp-download(https://github.com/shenzhun/wp-download) from http://dumps.wikimedia.org/enwiki/
