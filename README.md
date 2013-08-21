@@ -7,3 +7,6 @@ Download
 --------
 
 Download the lastest enwiki dump (10.5 G) using [wp-download](https://github.com/babilen/wp-download) from http://dumps.wikimedia.org/enwiki/
+
+Extracte XML
+------------
