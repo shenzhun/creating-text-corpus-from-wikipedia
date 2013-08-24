@@ -6,7 +6,7 @@ This project aims to create a plain text corpus from wikipedia for NLP and Speec
 Download 
 --------
 
-Download the lastest enwiki dump (10.5 G) using [wp-download](https://github.com/babilen/wp-download) from http://dumps.wikimedia.org/enwiki/
+Download the [20130805 dump](http://dumps.wikimedia.org/enwiki/20130805/) using [get_enwiki_dump.sh](https://github.com/shenzhun/creating-a-plain-text-corpus-from-wikipedia/blob/master/get_enwiki_dump.sh), the download and decompress process will last for a few hours due to its large size.(compress=10G, decompres=43G)
 
 Extracte XML
 ------------
