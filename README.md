@@ -12,9 +12,9 @@ Extracte XML
 ------------
 1. split enwiki dumps into 215 small files (200 MB/per file).
 
-2. extracte <text> ....</text> section into new file.
+2. extracte text section into new file.
 
-3. discard wiki markup tag and extracte plain text into another new file.
+3. discard [wiki markup tags](http://en.wikipedia.org/wiki/Help:Cheatsheet) and extracte plain text into another new file.
 
 4. write loop to process all the splited files into plain text files one by one.
 
